@@ -11,8 +11,24 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
 
 4. Feature Engineering
 
-5. Model Building 
  ![](/images/Items_combined.png)
+ 
+  ![](/images/ Oulter_Old.png) This graph shows how old each Outlet is.
+
+
+5. Model Building 
+
+ ![](/images/Linear Regression Coeff.png)
+ 
+ ![](/images/Lasso Coeff.png)
+  
+ ![](/images/Elastic Net Coeff.png)
+   
+ ![](/images/Desicion Tree.png)
+    
+ ![](/images/Random Forest.png)
+    
+ ![](/images/Using Selected features from Random Forest.png)
 
 6. Hyper Parameter Tuning
 
