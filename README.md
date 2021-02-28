@@ -11,7 +11,6 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
 
 4. Feature Engineering
 
-
 ![](/images/Lasso Coeff.png)
 
 5. Model Building
