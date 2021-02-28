@@ -11,7 +11,7 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
 
 4. Feature Engineering
 
-![Combining items for better categorization](Items_combined.jpg)
+![](Items_combined.jpg)
 
 5. Model Building
 
