@@ -11,9 +11,7 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
 
 4. Feature Engineering
 
-![](/images/Lasso Coeff.png)
-
-5. Model Building
+5. Model Building  ![](/images/Lasso Coeff.png)
 
 6. Hyper Parameter Tuning
 
@@ -23,4 +21,4 @@ I have used various regression models and used a function for performing fit,cro
 
 For Model Evaluation I have used **RMSE** score. 
 
-I was able to acheive a **RMSE** score of 1069.0
+I was able to acheive a **RMSE** score of **1069.0**.
