@@ -18,17 +18,17 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
 
 5. Model Building 
 
- ![](/images/Linear Regression Coeff.png)
+ ![](/images/Linear_Regression_Coeff.png)
  
- ![](/images/Lasso Coeff.png)
+ ![](/images/Lasso_Coeff.png)
   
- ![](/images/Elastic Net Coeff.png)
+ ![](/images/Elastic_Net_Coeff.png)
    
- ![](/images/Desicion Tree.png)
+ ![](/images/Desicion_Tree.png)
     
- ![](/images/Random Forest.png)
+ ![](/images/Random_Forest.png)
     
- ![](/images/Using Selected features from Random Forest.png)
+ ![](/images/Random_Forest_Feature_Selection.png)
 
 6. Hyper Parameter Tuning
 
