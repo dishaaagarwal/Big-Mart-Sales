@@ -3,20 +3,20 @@
 In this Notebook I have implemented the Big Mart Sales which is a regression problem.I have done this following the full data science life cycle.
 
 
-1. Hypothesis Generation
+1. **Hypothesis Generation**
 
-2. Data Exploration
+2. **Data Exploration**
 
-3. Data Cleaning
+3. **Data Cleaning**
 
-4. Feature Engineering
+4. **Feature Engineering**
 
  ![](/images/Items_combined.png)
  
   ![](/images/ Oulter_Old.png) This graph shows how old each Outlet is.
 
 
-5. Model Building 
+5. **Model Building**
 
  ![](/images/Linear_Regression_Coeff.png)
  
@@ -30,7 +30,7 @@ In this Notebook I have implemented the Big Mart Sales which is a regression pro
     
  ![](/images/Random_Forest_Feature_Selection.png)
 
-6. Hyper Parameter Tuning
+6. **Hyper Parameter Tuning**
 
 
 I have used various regression models and used a function for performing fit,cross_validation,prediction on test data and creating a submission_file.
