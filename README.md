@@ -1,20 +1,21 @@
 # Big-Mart-Sales
 
-In this Notebook I have implemented the Big Mart Sales which is a regression problem.I have done this following the full data science life cycle.
+In this Notebook I have implemented the Big Mart Sales which is a regression problem along with SweetViz library .I have done this following the full data science life cycle.
 
 
 1. **Hypothesis Generation**
 
 2. **Data Exploration**
 
+![](/images/EDA_1.png)
+
+![](/images/EDA_2.png)
+
 3. **Data Cleaning**
 
 4. **Feature Engineering**
 
  ![](/images/Items_combined.png)
- 
-  ![](/images/ Oulter_Old.png) This graph shows how old each Outlet is.
-
 
 5. **Model Building**
 
